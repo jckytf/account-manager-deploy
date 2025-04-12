@@ -1,0 +1,31 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "status": "Open",
+      "type": "Credit Card",
+      "openDate": "2001/01/01",
+      "people": "Jackie",
+      "accountName": "Chase Freedom",
+      "creditLimit": "9999"
+    },
+    {
+      "id": 2,
+      "status": "Open(AU)",
+      "type": "Credit Card",
+      "openDate": "2001/01/07",
+      "people": "Jackie",
+      "accountName": "Discover Card",
+      "creditLimit": "9000"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1739922137822,
+      "content": "Test Note",
+      "createdAt": "2025-02-18T23:42:17.822Z",
+      "lastModified": "2025-02-19T00:39:48.912Z",
+      "isEditing": true
+    }
+  ]
+}
