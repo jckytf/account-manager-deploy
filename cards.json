@@ -5,7 +5,7 @@
       "status": "Open",
       "type": "Credit Card",
       "openDate": "2001/01/01",
-      "people": "Jackie",
+      "people": "Tom",
       "accountName": "Chase Freedom",
       "creditLimit": "9999"
     },
@@ -14,7 +14,7 @@
       "status": "Open(AU)",
       "type": "Credit Card",
       "openDate": "2001/01/07",
-      "people": "Jackie",
+      "people": "Tom",
       "accountName": "Discover Card",
       "creditLimit": "9000"
     }
